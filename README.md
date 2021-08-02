@@ -1,2 +1,2 @@
 # training
-Kacper 
+Kacper Glodomorek
