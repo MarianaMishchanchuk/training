@@ -1,2 +1,2 @@
 # training
-Kacper Glodomorek
+Kacper Glodomorek Borderek
